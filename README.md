@@ -5,6 +5,9 @@
 start the Jupyter notebooks in binder by clicking here
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrien-perello/Computer-Science-Crash-Course/main)
 
+start the Jupyter notebooks in Google Colab by clicking here:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrien-perello/Computer-Science-Crash-Course/blob/main/01_Introduction-to-Python/01_Numbers.ipynb)
+
 ---
 
 ## Option 2 (best but longer and require installation)
