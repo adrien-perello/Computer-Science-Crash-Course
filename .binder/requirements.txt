@@ -1,5 +1,0 @@
-numpy
-matplotlib
-watermark
-ipywidgets
-jupyter_contrib_nbextensions
