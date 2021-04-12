@@ -1,9 +1,0 @@
-name: test
-channels:
-  - conda-forge
-  - anaconda
-  - defaults
-dependencies:
-  - sympy=1.7.1=py39h06a4308_0
-  - terminado=0.9.4=py39h06a4308_0
-prefix: /home/adrien/Documents/Apps/Anaconda3/envs/test
