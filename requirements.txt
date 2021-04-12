@@ -2,4 +2,3 @@ autopep8
 json
 numpy
 matplotlib
-sympy
