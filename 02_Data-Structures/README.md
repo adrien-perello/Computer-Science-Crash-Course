@@ -1,6 +1,6 @@
 # II. Data Structures
 
-**[<< Previous Chapter](./01_Introduction-to-Python)   |   [Next Chapter >>](../03_Algorithms)**
+**[<< Previous Chapter](../01_Introduction-to-Python)   |   [Next Chapter >>](../03_Algorithms)**
 
 <hr>
 &nbsp;

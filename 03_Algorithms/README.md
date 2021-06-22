@@ -1,6 +1,6 @@
 # III. Algorithms
 
-**[<< Previous Chapter](./01_Introduction-to-Python)   |   [Next Chapter >>](../03_Algorithms)**
+**[<< Previous Chapter](../02_Data-Structures)   |   [Next Chapter >>](../04_Exercises)**
 
 <hr>
 &nbsp;
