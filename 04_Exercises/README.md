@@ -1,9 +1,15 @@
+# IV. Exercises
+
+**[<< Previous Chapter](../03_Algorithms)   |   [Next Chapter >>]**
+
+<hr>
+&nbsp;
+
 <p align='center'>
 <img src='./logo.png'>
 </p>
 
-
-# <a name="content"></a> Content
+# <a name="content"></a> Table of Content
 
 ## [By difficulty](#difficulty)
 - [Medium](#medium)  
