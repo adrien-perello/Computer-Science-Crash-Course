@@ -1,6 +1,6 @@
 # VI. Scientific Computing
 
-**[<< Previous Chapter](../05_Python-Standard-Library)    |   [Next Chapter >>](../07_Coding-projects)**
+**[<< Previous Chapter](../05_Python-Standard-Library)    |   [Next Chapter >>]**
 
 <hr>
 &nbsp;
