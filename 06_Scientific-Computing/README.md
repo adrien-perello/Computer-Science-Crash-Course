@@ -7,7 +7,8 @@
 
 ## Table of Content
 
-### Data Handling & Plotting
+
+### Part 1: Data Handling & Plotting
 
 | Lesson        | Binder        | Nbviewer      | Google Colab  |
 | ------------- | ------------- | ------------- | ------------- |
@@ -18,8 +19,9 @@
 | 05. Seaborn       |               | (In progress) |               |
 | 06. Plotly        |               |               | (In progress) |
 
+&nbsp;  
 
-### Numerical Computation
+### Part 2: Numerical Computation
 
 | Lesson                 | Binder        | Nbviewer      | Google Colab  |
 | ---------------------- | ------------- | ------------- | ------------- |
@@ -33,8 +35,9 @@
 | SymPy                  |               | (In progress) |               |
 | Numba                  |               |               | (In progress) |
 
+&nbsp;  
 
-### Notebooks & Dashboards
+### Part 3: Notebooks & Dashboards
 
 | Lesson          | Binder        | Nbviewer      | Google Colab  |
 | --------------- | ------------- | ------------- | ------------- |
