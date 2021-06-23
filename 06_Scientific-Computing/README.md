@@ -24,7 +24,7 @@
 | Lesson                 | Binder        | Nbviewer      | Google Colab  |
 | ---------------------- | ------------- | ------------- | ------------- |
 | [07. Numpy](./02_Numerical-Computation/07_Numpy.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrien-perello/Computer-Science-Crash-Course/main?filepath=06_Scientific-Computing%2F02_Numerical-Computation%2F07_Numpy.ipynb) | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/adrien-perello/Computer-Science-Crash-Course/blob/main/06_Scientific-Computing/02_Numerical-Computation/07_Numpy.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrien-perello/Computer-Science-Crash-Course/blob/main/06_Scientific-Computing/02_Numerical-Computation/07_Numpy.ipynb) |
-| Differential Equations |               | (In progress) |               |
+| [08. Differential Equations](./02_Numerical-Computation/08_Differential-Equations.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrien-perello/Computer-Science-Crash-Course/main?filepath=06_Scientific-Computing%2F02_Numerical-Computation%2F08_Differential-Equations.ipynb) | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/adrien-perello/Computer-Science-Crash-Course/blob/main/06_Scientific-Computing/02_Numerical-Computation/08_Differential-Equations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrien-perello/Computer-Science-Crash-Course/blob/main/06_Scientific-Computing/02_Numerical-Computation/08_Differential-Equations.ipynb) |
 | Integration            |               |               | (In progress) |
 | Optimization           | (In progress) |               |               |
 | Interpolation          |               | (In progress) |               |
@@ -39,7 +39,7 @@
 | Lesson          | Binder        | Nbviewer      | Google Colab  |
 | --------------- | ------------- | ------------- | ------------- |
 | Jupyter & Colab | (In progress) |               |               |
-| Mathjax         |               | (In progress) |               |
+| [17. Mathjax and Latex](./03_Notebooks-and-Dashboards/17_Mathjax-and-Latex.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrien-perello/Computer-Science-Crash-Course/main?filepath=06_Scientific-Computing%2F03_Notebooks-and-Dashboards%2F17_Mathjax-and-Latex.ipynb) | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/adrien-perello/Computer-Science-Crash-Course/blob/main/06_Scientific-Computing/03_Notebooks-and-Dashboards/17_Mathjax-and-Latex.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrien-perello/Computer-Science-Crash-Course/blob/main/06_Scientific-Computing/03_Notebooks-and-Dashboards/17_Mathjax-and-Latex.ipynb) |
 | Binder          |               |               | (In progress) |
 | Jupyter widgets | (In progress) |               |               |
 | ipyparallel     |               | (In progress) |               |
