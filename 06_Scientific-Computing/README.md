@@ -11,20 +11,20 @@
 
 | Lesson        | Binder        | Nbviewer      | Google Colab  |
 | ------------- | ------------- | ------------- | ------------- |
-| Pandas        | (In progress) |               |               |
-| BeautifulSoup |               | (In progress) |               |
-| Scrapy        |               |               | (In progress) |
-| Matplotlib    | (In progress) |               |               |
-| Seaborn       |               | (In progress) |               |
-| Plotly        |               |               | (In progress) |
+| 01. Pandas        | (In progress) |               |               |
+| 02. BeautifulSoup |               | (In progress) |               |
+| 03. Scrapy        |               |               | (In progress) |
+| 04. Matplotlib    | (In progress) |               |               |
+| 05. Seaborn       |               | (In progress) |               |
+| 06. Plotly        |               |               | (In progress) |
 
 
 ### Numerical Computation
 
 | Lesson                 | Binder        | Nbviewer      | Google Colab  |
 | ---------------------- | ------------- | ------------- | ------------- |
-| Numpy                  | (In progress) |               |               |
-| Differential equations |               | (In progress) |               |
+| [07. Numpy](./02_Numerical-Computation/07_Numpy.ipynb)              | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adrien-perello/Computer-Science-Crash-Course/main?filepath=06_Scientific-Computing%2F02_Numerical-Computation%2F07_Numpy.ipynb) | [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/adrien-perello/Computer-Science-Crash-Course/blob/main/02_Numerical-Computation/07_Numpy.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrien-perello/Computer-Science-Crash-Course/blob/main/02_Numerical-Computation/07_Numpy.ipynb) |
+| Differential Equations |               | (In progress) |               |
 | Integration            |               |               | (In progress) |
 | Optimization           | (In progress) |               |               |
 | Interpolation          |               | (In progress) |               |
