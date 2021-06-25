@@ -23,6 +23,8 @@ Navigate the directory, and open the lesson either:
 ### Option 2 (longer and require installation, but allow you to save your changes)
 
 - Download the repository as a ZIP (or clone it)
+![download repo](./attachments/import.png)
+
 - Install [anaconda](https://www.anaconda.com/products/individual)
 - Launch anaconda and click on Jupyter notebook
 - Find the location of the imported repository and launch the notebook
