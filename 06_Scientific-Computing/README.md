@@ -7,6 +7,8 @@
 
 ## Table of Content
 
+[Open the whole chapter in Binder](https://mybinder.org/v2/gh/adrien-perello/Computer-Science-Crash-Course/main?filepath=06_Scientific-Computing) or open a specific chapter (Github or Nbviewer for simple visualization, Binder or Google Colab for interactivity)
+
 
 ### Part 1: Data Handling & Plotting
 

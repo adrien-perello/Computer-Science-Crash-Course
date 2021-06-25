@@ -7,6 +7,8 @@
 
 ## Table of Content
 
+[Open the whole chapter in Binder](https://mybinder.org/v2/gh/adrien-perello/Computer-Science-Crash-Course/main?filepath=05_Python-Standard-Library) or open a specific chapter (Github or Nbviewer for simple visualization, Binder or Google Colab for interactivity)
+
 | Lesson          | Binder        | Nbviewer      | Google Colab  |
 | --------------- | ------------- | ------------- | ------------- |
 | string          | (In progress) |               |               |
