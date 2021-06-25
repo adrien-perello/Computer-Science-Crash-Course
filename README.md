@@ -12,7 +12,7 @@ Quickly learn the basics of Computer Science and python with Jupyter notebooks.
 - [VI. Scientific Computing](06_Scientific-Computing)
 <!-- - [VII. Software Development](07_Software-Development) -->
 
-## installation
+## Installation
 
 ### Option 1 (easiest)
 
