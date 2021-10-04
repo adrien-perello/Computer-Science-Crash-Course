@@ -1,3 +1,4 @@
 *.vscode
 *.ipynb_checkpoints
 *_private
+*__pycache__
