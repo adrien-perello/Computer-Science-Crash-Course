@@ -1,0 +1,328 @@
+graph_type,nb_nodes,expected_avg_degree,component,avg_distance
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,0,3.51
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,1,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,4,2,0.0
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,100,5,0,2.78
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,0,4.05
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,1,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,2,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,3,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,4,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,5,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,4,6,0.0
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,0,3.46
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,1,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,2,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+random,200,5,3,0.0
+small world,100,4,0,3.59
+small world,100,4,0,3.59
+small world,100,4,0,3.59
+small world,100,4,0,3.59
+small world,100,4,0,3.59
+small world,100,4,0,3.59
+small world,100,4,0,3.59
+small world,100,4,0,3.59
+small world,100,5,0,3.54
+small world,100,5,0,3.54
+small world,100,5,0,3.54
+small world,100,5,0,3.54
+small world,100,5,0,3.54
+small world,100,5,0,3.54
+small world,100,5,0,3.54
+small world,100,5,0,3.54
+small world,200,4,0,4.17
+small world,200,4,0,4.17
+small world,200,4,0,4.17
+small world,200,4,0,4.17
+small world,200,4,0,4.17
+small world,200,4,0,4.17
+small world,200,4,0,4.17
+small world,200,4,0,4.17
+small world,200,4,0,4.17
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+small world,200,5,0,4.2
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,4,0,2.99
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,100,5,0,2.61
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,4,0,3.34
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
+scale free,200,5,0,2.92
