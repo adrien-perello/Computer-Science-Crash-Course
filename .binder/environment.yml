@@ -1,8 +1,0 @@
-name: null
-channels:
-  - defaults
-dependencies:
-  - jupyter_contrib_nbextensions
-  - ipywidgets
-  - hide_code
-  - watermark
