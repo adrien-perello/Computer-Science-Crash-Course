@@ -10,6 +10,8 @@ Learn the basics of Computer Science and python with Jupyter notebooks.
 - [IV. Exercises](04_exercises)
 <!-- - [V. Software Development](05_software-development) -->
 
+***
+
 ## How to Run the Notebooks
 
 ### Online
@@ -23,33 +25,36 @@ If you don’t want to install anything, you can run the notebooks using a web-b
 - Specify the branch and the file to open (optional)
 - Click on "Launch"
 
-**Note**: It is recommended that you only open the desired notebook, as building a Docker image can be slow (see screenshot below)
-
 ![mybinder](./img/mybinder.png)
 
+> **Note**: It is recommended that you only open the desired notebook, as building a Docker image can be slow (see screenshot qbove)
 
-#### via Google Colab
+
+#### via Google Colab (requires a Google account)
 
 - Go to [Colab](https://colab.research.google.com/)
 - Click on File > Upload notebook
 - Select Github and specify the URL
 
-**Note**: This option requires a Google account
-
 ![colab](./img/colab.png)
 
+***
 
 ### Local installation (Recommended)
 
 **1. Install an Environment Management Tool**
+
   - install [mamba](https://mamba.readthedocs.io/en/latest/) (faster and more efficient than Conda)
   - or [anaconda](https://www.anaconda.com/products/individual) (popular for Data Science, but slower)
 
+
 **2. Download the Repository**
+
   - Download as zip (click on Code > Download zip) and extract it to a preferred location on your computer.
   - or, [clone it](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) if you are tech savy and have git installed
 
 ![download repo](./img/import.png)
+
 
 **3. Set Up a Virtual Environment**
 
@@ -63,16 +68,18 @@ If you don’t want to install anything, you can run the notebooks using a web-b
     mamba env create --file environment.yml
     ```
 
-**Notes:**
-- If you’re not inside the correct directory, you can specify the full path: `--file /path/to/environment.yml`
-- The environment name is already specified in the `environment.yml` file, but you can set your own name using: `mamba env create --name <MY-ENV-NAME> --file environment.yml`
-- replace `mamba` with `conda` if you have anaconda instead.
+> **Notes:**
+> - replace `mamba` with `conda` if you have anaconda instead.
+> - If you’re not inside the correct directory, you can specify the full path: `--file /path/to/environment.yml`
+> - The environment name is already specified in the `environment.yml` file (default is `ipynb-env`), but you can set your own name using: `mamba env create --name <MY-ENV-NAME> --file environment.yml`
 
 
 **4. Running Jupyter Notebooks**
+
 - Option 1: Using Jupyter Notebook
   - activate the virtual environment by running the following command in the Terminal: `mamba activate <MY-ENV-NAME>`
   - launch jupyter by running the following command in the Terminal: `jupyter lab` (or `jupyter notebook`)
+
 
 - Option 2: Using VS Code
     - Install [VS Code](https://code.visualstudio.com/download)
