@@ -18,15 +18,15 @@ Learn the basics of Computer Science and python with Jupyter notebooks.
 
 **1. Install an Environment Management Tool**
 
-  - install [mamba](https://mamba.readthedocs.io/en/latest/) (faster and more efficient than Conda)
-  - or [anaconda](https://www.anaconda.com/products/individual) (popular for Data Science, but slower)
+  - install [anaconda](https://www.anaconda.com/products/individual) (popular for Data Science, but slower)
+  - or [mamba](https://mamba.readthedocs.io/en/latest/) (faster and more efficient than anaconda)
 
 
 **2. Download the Repository**
 
   - Click on **Code > Download ZIP**
   - Extract the ZIP file to a preferred location on your computer.
-  - or, [clone it](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) if you are tech savy and have git installed
+  - or, [clone it](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) (instead of ZIP download) if you are tech savy and have git installed
 
 ![download repo](./img/import.png)
 
@@ -46,21 +46,13 @@ Learn the basics of Computer Science and python with Jupyter notebooks.
     - Windows: Click on the address bar in File Explorer, type `cmd`, and press Enter.
     - MacOS: Right-click and select `New Terminal at Folder`
     - Linux: Right-click and select `Open in Terminal`
-  - Run the following command:
+  - Run the following command to create the environment:
     ```bash
     conda env create --file environment.yml
     ```
     or
     ```bash
     mamba env create --file environment.yml
-    ```
-  - Activate the environment:
-    ```bash
-    conda activate dmfa
-    ```
-    or
-    ```bash
-    mamba activate dmfa
     ```
 
 
@@ -80,7 +72,7 @@ Learn the basics of Computer Science and python with Jupyter notebooks.
   
 - **Option 2:** Using the Command (both anaconda and mamba)
     - Launch a terminal/command prompt (or the "Anaconda Prompt" app)
-    - activate the virtual environment by running the following command in the Terminal:
+    - Run the following command to activate the virtual environment:
       ```bash
       conda activate dmfa
       ```
@@ -88,7 +80,7 @@ Learn the basics of Computer Science and python with Jupyter notebooks.
       ```bash
       mamba activate dmfa
       ```
-    - launch jupyter by running the following command in the Terminal:
+    - Run the following command to launch jupyter:
       ```bash
       jupyter lab
       ``` 
@@ -101,7 +93,7 @@ Learn the basics of Computer Science and python with Jupyter notebooks.
     - Install [VS Code](https://code.visualstudio.com/download)
     - Open VS Code and go to File > Open Folder
     - Open a Jupyter Notebook (`.ipynb` file)
-    - make sure to select [the virtual environment (i.e. Kernel)](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) where the Jupyter package is installed
+    - Make sure to select [the virtual environment (i.e. Kernel)](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) where the Jupyter package is installed
 
 ![vscode](./img/vscode.png)
 
